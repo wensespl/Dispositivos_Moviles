@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Original"
+        android:id="@+id/mnuoriginal"/>
+    <item
+        android:id="@+id/mnugris"
+        android:title="Gris" />
+    <item
+        android:id="@+id/mnuinversogris"
+        android:title="Inverso Gris" />
+    <item
+        android:id="@+id/mnuradiografia"
+        android:title="Radiografia" />
+    <item
+        android:id="@+id/mnuinversocolor"
+        android:title="Inverso Color" />
+    <item
+        android:id="@+id/mnucanalr"
+        android:title="Canal R" />
+    <item
+        android:id="@+id/mnucanalg"
+        android:title="Canal G" />
+    <item
+        android:id="@+id/mnucanalb"
+        android:title="Canal B" />
+    <item
+        android:id="@+id/mnuborde"
+        android:title="Borde" />
+    <item
+        android:id="@+id/mnuesqueleto"
+        android:title="Esqueleto" />
+    <item
+        android:id="@+id/mnupiel"
+        android:title="Piel" />
+    <item
+        android:id="@+id/mnurostro"
+        android:title="Rostro" />
+    <item
+        android:id="@+id/mnubelleza"
+        android:title="Belleza" />
+    <item
+        android:id="@+id/mnusiguerojo"
+        android:title="Sensor de Calor" />
+    <item
+        android:id="@+id/mnusiguemano"
+        android:title="Sigue Mano" />
+</menu>

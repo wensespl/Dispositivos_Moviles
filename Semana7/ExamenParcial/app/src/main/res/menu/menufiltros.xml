@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuoriginal" android:title="Original" />
+    <item android:id="@+id/menugris" android:title="Gris" />
+    <item android:id="@+id/menuinversogris" android:title="Inverso Gris" />
+    <item android:id="@+id/menubordes" android:title="Bordes" />
+</menu>

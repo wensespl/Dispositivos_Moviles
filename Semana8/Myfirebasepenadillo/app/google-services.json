@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741352370189",
+    "project_id": "myfirebasepenadillo",
+    "storage_bucket": "myfirebasepenadillo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741352370189:android:1c064591487831ed9ca544",
+        "android_client_info": {
+          "package_name": "com.example.myfirebasepenadillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741352370189-orrp27ariuovle5jsdia4n88ves484jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Dwp2Z1LJumzJzsWISGoQndwqBzgy0G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741352370189-orrp27ariuovle5jsdia4n88ves484jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

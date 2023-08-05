@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menucalculadora" android:title="Calculadora" />
+    <item android:id="@+id/menuclientes" android:title="Clientes" />
+    <item android:id="@+id/menufiltros" android:title="Filtros" />
+</menu>

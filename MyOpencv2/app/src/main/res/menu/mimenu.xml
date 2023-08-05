@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/mnuoriginal"
+    android:title="Origina"/>
+    <item
+        android:id="@+id/mnugris"
+        android:title="Gris"/>
+    <item
+        android:id="@+id/mnuinverso"
+        android:title="Inversp"/>
+    <item
+        android:id="@+id/mnuinversocolor"
+        android:title="Inverso Color"/>
+    <item
+        android:id="@+id/mnuresaltar"
+        android:title="Resaltar"/>
+    <item
+        android:id="@+id/mnurostro"
+        android:title="Rostro"/>
+</menu>

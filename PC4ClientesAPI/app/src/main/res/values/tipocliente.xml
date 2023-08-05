@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipocliente">
+        <item>Ocasional</item>
+        <item>Regular</item>
+        <item>Frecuente</item>
+        <item>Embajador</item>
+    </string-array>
+</resources>

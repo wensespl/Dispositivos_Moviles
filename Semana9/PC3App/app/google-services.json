@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270088096760",
+    "project_id": "pc3app",
+    "storage_bucket": "pc3app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270088096760:android:bdd7dbdfacc027be75240d",
+        "android_client_info": {
+          "package_name": "com.example.pc3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270088096760-vi0ugr40h5ivigqak2qd4155jc8ka1db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFMMCWnzlTumI6geWgwNrsHgO3e3TpAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270088096760-vi0ugr40h5ivigqak2qd4155jc8ka1db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
