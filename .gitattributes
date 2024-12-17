@@ -1,5 +1,0 @@
-Semana5/OpenCv/OpenCV/native/3rdparty/libs/x86_64/libippicv.a filter=lfs diff=lfs merge=lfs -text
-MyOpencv2/openCV/native/libs/x86_64/libopencv_java3.so filter=lfs diff=lfs merge=lfs -text
-semana4/OpenCVApp/openCV/build/intermediates/library_jni/debug/jni/x86_64/libopencv_java4.so filter=lfs diff=lfs merge=lfs -text
-MyOpencv2/openCV/native/3rdparty/libs/x86_64/libippicv.a filter=lfs diff=lfs merge=lfs -text
-Semana5/OpenCv/OpenCV/build/intermediates/library_jni/debug/jni/x86_64/libopencv_java4.so filter=lfs diff=lfs merge=lfs -text
